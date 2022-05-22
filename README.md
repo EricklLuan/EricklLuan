@@ -16,11 +16,7 @@ Eu sou um aluno de programação que está estudando para se tornar um desenvolv
 
 **Meu estatus do GitHub:**
 
-<div style='
-display:flex; 
-justify-content:center;
-'
->
+<div align='center'>
 
   ![Github stats](https://github-readme-stats.vercel.app/api?username=ericklluan&show_icons=true)
   ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ericklluan&langs_count=8&layout=compact)
