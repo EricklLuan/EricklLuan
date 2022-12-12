@@ -3,7 +3,7 @@
 </div>
 
 <div align='center'>
-  <a href='https://icons8.com/' target='_blank'><img title="Hi" src="assets/experiences.png"></a>
+  <img title="Hi" src="assets/experiences.png">
 </div>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EricklLuan)
@@ -28,3 +28,7 @@ Eu sou um aluno de programação que está estudando para se tornar um desenvolv
   ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ericklluan&langs_count=8&layout=compact)
 
 </div>
+
+**Icones:**
+
+  - <a href="https://icons8.com/" target="blank">Icons8</a>
