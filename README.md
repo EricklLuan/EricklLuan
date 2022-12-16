@@ -19,6 +19,7 @@ Eu sou um aluno de programação que está estudando para se tornar um desenvolv
   - :mortar_board: Eu estou atualmente cursando o 3ºano do ensino tecnico da **Etec de Monte Mor**
   - :purple_heart: Venha falar comigo, adoraria ser seu amigo
   - :arrow_right: Futuramente planejo estudar desenvolvimento de jogos e c++
+  - Icones: <a href="https://icons8.com/" target="blank">Icons8</a>
 
 **Meu estatus do GitHub:**
 
@@ -28,7 +29,3 @@ Eu sou um aluno de programação que está estudando para se tornar um desenvolv
   ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ericklluan&langs_count=8&layout=compact)
 
 </div>
-
-**Icones:**
-
-  - <a href="https://icons8.com/" target="blank">Icons8</a>
